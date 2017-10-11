@@ -1,0 +1,29 @@
+.sri{
+
+     border:2px solid red;
+
+	 width:400px;
+
+	 height:450px;
+
+	 margin:80px;
+	 background-color:pink;
+
+	}
+
+.sri1{
+
+	  border:1px solid green;
+
+	  width:70px;
+
+	  height:70px;
+
+	  padding:20px 20px ;
+
+	  margin:0.2px 290px ;
+	  background-color:yellow;
+}
+.p { 
+    margin-right:50px;
+}
